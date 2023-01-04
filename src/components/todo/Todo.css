@@ -1,0 +1,20 @@
+.container{
+    background-color: rgb(16, 61, 61);
+    margin: 5em auto;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.input{
+    border-radius: 10px;
+}
+.todotask{
+    border: 10px;
+    box-sizing: content-box;
+}
